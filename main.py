@@ -26,7 +26,7 @@ for row in table:
     for cell in row:
         print(cell, '', end='')
     print()
-print("a")
+print("asdasd")
 
 
 
